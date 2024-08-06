@@ -1,0 +1,15 @@
+Program 4	Create following table in database "Hotel.db" with appropriate constraints. ( From SQLITE3)
+        	Roommast(Roomno,Roomtype,Rate) 
+        	Customer(Customername,City,Roomno,Allocateday,Noofdays)
+        	Roomtype are Super, Normal, Double, Single
+	
+          Perform following operation on it
+          	1. Insert 10 records in both tables using python script.
+          	2. Display the name of the customer who are living in room type 'SUPER'.
+          	3. Display customer details in descending order of their city.
+          	4. Display name of the all customers who have visited between 20-jan-2011 and 10-feb-2011.
+          	5. Delete the total no of customer who are from surat city.
+          	6. Display the total no of customers who are from surat city.
+          	7. Count the no of rooms which are occupied in double.
+          	8. Dispaly customer's detail that stayed in Normal room.
+	
