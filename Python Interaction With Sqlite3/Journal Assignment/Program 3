@@ -1,0 +1,10 @@
+Program 3 :	Create table "Books" with the following column.
+	          bookid, title, author, publisher, year
+	
+        	Perform following operation using python
+          	1. Input 5 records directly.
+          	2. Print all records
+          	3. Insert 3 records. Records must be taken from user.
+          	4 Print book published after year 2000.
+          	5. Print book as per ascending order of author name
+          	6. Select book with "Title" containing atleast 10 character and 1st character is "C".
