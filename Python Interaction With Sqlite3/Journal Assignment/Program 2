@@ -1,0 +1,25 @@
+Program 2: 	Write a python script to perform CRUD operation on following table of "EMP.db" database.
+	          Employee1(eid,ename,desg,salary)
+          	1. Create table
+          	2. Insert 10 Records As below.
+          	
+                  	1 | Raj | Maganager | 60000
+                  	2 | Rahul | Executive Manager | 90000
+                  	3 | Vikas | Asst Manager | 60000
+                  	4 | Varun | Maganager | 40000
+                  	5 | Harshit | Supervisor | 45000
+                  	6 | Tarun | Senior Manager | 50000
+                  	7 | Rishav | Supervisor | 50000
+                  	8 | Diksha | Counsellor | 40000
+                  	9 | Rakesh | Asst Manager | 60000
+                  	10 | Pooja | Maganager | 60000
+          	
+          	Peform Following Operation using python
+          	3. print all records.
+          	4. Grouping record of employee whose designations are "Manager".
+          	5. print record whose designation is "Asst Manager" and salary > 120000.
+          	6. Grouping records based on designation and count the salary of them.
+          	7. Delete record whose id=10;
+          	8. Update record whose designation is "Counsellor".
+          	9. print records of employee desg how many employees are on "Manager" desg with salary.
+          	10.print the salary of supervisors base on desg.
