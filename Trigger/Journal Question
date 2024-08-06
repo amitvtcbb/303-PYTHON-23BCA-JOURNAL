@@ -1,0 +1,8 @@
+Program 1 : Create table student ( id, name , age, grade) and studlog ( id, datentime ) . Perform following operation
+            1. Create trigger to insert record only if age > 18.
+            2. Delete all record if grede is 'D' and make a entry in studlog table.
+Program 2: Create table item ( iid, iname, qty, rate ). itemlog contain (iid, operation, old_rate, new_rate,new_iname)
+            1. Don't insert record if qty as well as rate is 0. Generate appropriate error message.
+            2. Maintain log after updating item name or item quantity.
+            3. Maintain log table when we delete record from item table.
+      
